@@ -1,0 +1,27 @@
+p{
+    text-align: justify;
+}
+
+.container{
+    width: 500px;
+    margin-top: 10px;
+    background-color: rgba(0, 0, 0, 0.712);
+    color: white;
+}
+
+h2{
+    text-align: center;
+}
+
+input{
+    margin: 0px auto;
+    justify-self: center;
+    text-align: center;
+    width: 400px;
+    background-color: gray;
+}
+
+h2{
+    text-decoration: dashed;
+}
+
